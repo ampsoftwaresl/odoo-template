@@ -1,8 +1,8 @@
-=========================
-Odoo 14 - Docker template
-=========================
+====================================
+Odoo 14 Enterprise - Docker template
+====================================
 
-Odoo 14 template to deploy with Docker + Nginx.
+Odoo 14 Enterprise template to deploy with Docker + Nginx.
 
 Installation
 ============
